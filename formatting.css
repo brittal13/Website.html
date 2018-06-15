@@ -1,0 +1,29 @@
+﻿h1 {
+   text-align:center;
+   text-shadow:5px 2px 3px grey;
+}
+body.mainpage {
+   background-color: #ccffcc;
+}
+body {
+   background-color: #ccffff;
+}
+p.stuff {
+   text-align: center;
+   color: red;
+   font-size: x-large;
+   text-shadow: 5px 2px 3px grey;
+}
+.anima {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 35%;
+}
+.fungifriend {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 35%;
+   transform: rotate(90deg);
+}
